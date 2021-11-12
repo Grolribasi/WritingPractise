@@ -17,7 +17,7 @@ ui:
       contents: |
         static_files: [ .nojekyll ]
     - path: .nojekyll
-# Упаковка с интерфейсом
+# Упаковка с интерфейсом и отключить бесячий jekyll
 output:
   dir: docs
 # Куда складывать файлы сайта
