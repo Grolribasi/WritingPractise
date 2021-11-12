@@ -1,0 +1,5 @@
+= Что это за хлам?
+
+Это репозиторий со всеми материалами, необходимыми для разворачивания своего сайта при помощи Antora и AsciiDoc.
+
+Подробнее см. https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vsaya/modules/kabanchik/pages/meetingScript.adoc[здесь].
