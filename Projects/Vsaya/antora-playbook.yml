@@ -1,0 +1,18 @@
+site:
+  title: Wой Wаленький Wайт
+# Загловок сайта
+  start_page: mycomponent:kabanchik:meetingScript.adoc
+# Начальная страница
+content:
+  sources:
+    - url: .
+      start_path: .
+  branches: main
+# Источники
+ui:
+  bundle:
+    url: ../../ui-bundle.zip
+# Упаковка с интерфейсом
+output:
+  dir: mysite
+# Куда складывать файлы сайта

@@ -1,0 +1,19 @@
+= Мама, я - техпис
+
+Меня зовут {nm} и моя должность {dty}.
+
+.Мои любимые вещи:
+. Автомобили Volvo:
++
+.Volvo V50
+image::v50.jpg[Volvo V50]
++
+. Big Village Brew
++
+.Big Village Brewery
+image::bvb.jpg[Big Village Brewery]
++
+. Клетчатые штаны
++
+.Клетчатые штаны
+image::plaid.jpg[Клетчатые штаны]
