@@ -14,5 +14,5 @@ ui:
     url: ./ui-bundle.zip
 # Упаковка с интерфейсом
 output:
-  dir: mysite
+  dir: docs
 # Куда складывать файлы сайта

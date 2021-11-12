@@ -2,4 +2,10 @@
 
 Это репозиторий со всеми материалами, необходимыми для разворачивания своего сайта при помощи Antora и AsciiDoc.
 
-Подробнее см. https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vsaya/modules/kabanchik/pages/meetingScript.adoc[здесь].
+Playbook вот https://github.com/Grolribasi/WritingPractise/blob/main/antora-playbook.yml[туть].
+
+Файлы сайта вот в https://github.com/Grolribasi/WritingPractise/blob/main/mysite/index.html[этой] папке.
+
+Подробная инструкция, как этим пользоваться https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vsaya/modules/kabanchik/pages/meetingScript.adoc[здесь]. По сравнению с инструкцией, репозиторий немного реорганизован, но суть не меняется.
+
+Можете разобраться самостоятельно, можете забить, можете спросить меня лично или почитать сайт https://docs.antora.org/[Анторы].
