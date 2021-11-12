@@ -9,3 +9,5 @@ Playbook вот https://github.com/Grolribasi/WritingPractise/blob/main/antora-p
 Подробная инструкция, как этим пользоваться https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vsaya/modules/kabanchik/pages/meetingScript.adoc[здесь]. По сравнению с инструкцией, репозиторий немного реорганизован, но суть не меняется.
 
 Можете разобраться самостоятельно, можете забить, можете спросить меня лично или почитать сайт https://docs.antora.org/[Анторы].
+
+Теоретически я бы мог превратить этот сайт GitHub Pages, но они у меня уже заняты https://vladimir-markiev.name/[моим сайтом] и вообще лень выяснять, как это совместить, так что клонируйте и открывайте файл `/docs/index.html`.
