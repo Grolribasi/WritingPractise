@@ -230,4 +230,4 @@ output:
 
 На этом всё. Буду рад метнуться кабанчиком и порешать ваши вопросики, если они есть.
 
-Сценарий этой встречи можно найти в папке `\\109PC0106\WritingPractise\Projects\Vsaya\mysite`. Или в репозитории GitHub со всеми-всеми материалами-- https://github.com/Grolribasi/dam.
+Сценарий этой встречи можно найти в папке `\\109PC0106\WritingPractise\Projects\Vsaya\mysite`. Или в репозитории GitHub со всеми-всеми материалами-- https://github.com/Grolribasi/WritingPractise.

@@ -1,13 +1,18 @@
 site:
   title: Wой Wаленький Wайт
-  start_page: kabanchik:favorites.adoc
+# Загловок сайта
+  start_page: mycomponent:kabanchik:meetingScript.adoc
+# Начальная страница
 content:
-  branches: 'develop'
-  edit_url: ~
   sources:
-    - url: ./
+    - url: .
+      start_path: projects/Vasya
+  branches: main
+# Источники
 ui:
   bundle:
-    url: ../ui-bundle.zip
+    url: ./ui-bundle.zip
+# Упаковка с интерфейсом
 output:
   dir: mysite
+# Куда складывать файлы сайта
