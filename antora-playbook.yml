@@ -1,6 +1,6 @@
 site:
   title: Wой Wаленький Wайт
-# Загловок сайта
+# Заголовок сайта
   start_page: mycomponent:kabanchik:meetingScript.adoc
 # Начальная страница
 content:
