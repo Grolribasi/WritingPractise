@@ -4,10 +4,12 @@
 
 Playbook вот https://github.com/Grolribasi/WritingPractise/blob/main/antora-playbook.yml[туть].
 
-Файлы сайта вот в https://github.com/Grolribasi/WritingPractise/blob/main/mysite/index.html[этой] папке.
+Файлы сайта вот в https://github.com/Grolribasi/WritingPractise/blob/main/mysite/[этой] папке.
 
-Подробная инструкция, как этим пользоваться https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vsaya/modules/kabanchik/pages/meetingScript.adoc[здесь]. По сравнению с инструкцией, репозиторий немного реорганизован, но суть не меняется.
+Исходник инструкции, как этим пользоваться https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vasya/modules/kabanchik/pages/meetingScript.adoc[здесь].
 
-Можете разобраться самостоятельно, можете забить, можете спросить меня лично или почитать сайт https://docs.antora.org/[Анторы].
+Можете разобраться самостоятельно, можете забить, форкнуть, можете спросить меня лично или почитать сайт https://docs.antora.org/[Анторы]. Распоряжайтесь информацией на ваше усмотрение.
 
 Теоретически я бы мог превратить этот сайт GitHub Pages, но они у меня уже заняты https://vladimir-markiev.name/[моим сайтом] и вообще лень выяснять, как это совместить, так что клонируйте и открывайте файл `/docs/index.html`.
+
+Мои любимые вещи вы найдёте в файле https://github.com/Grolribasi/WritingPractise/blob/main/mysite/favorites.html[favorites.html] или https://github.com/Grolribasi/WritingPractise/blob/main/Projects/Vasya/modules/kabanchik/pages/favorites.adoc[favorites.adoc].
